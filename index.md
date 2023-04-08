@@ -1,8 +1,14 @@
 # CSE 110 Lab 1 - Justin's User Page
 
+## Introduction
+
 Hello, my name is **Justin Chiang**.
 
 > I'm a Second year Computer Science student at UC San Diego!
+
+Here's a picture of [me](img/justin_chiang.jpg)!
+
+## Programming
 
 I'm constantly forgetting how to use `git`, so this lab has been a great review for me.
 
@@ -13,7 +19,7 @@ The programming languages I'm most comfortable in are:
 
 My GitHub can be accessed [here](https://github.com/justin-chiang).
 
-Here's a picture of [me](img/justin_chiang.jpg)!
+## Hobbies
 
 Some of my favorite hobbies include:
 - Playing volleyball and soccer
