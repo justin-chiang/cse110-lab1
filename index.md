@@ -6,7 +6,8 @@ Hello, my name is **Justin Chiang**.
 
 > I'm a Second year Computer Science student at UC San Diego!
 
-Here's a picture of [me](img/justin_chiang.jpg)!
+Here's a picture of me!
+![me](img/justin_chiang.jpg)
 
 ## Programming
 
@@ -18,6 +19,8 @@ The programming languages I'm most comfortable in are:
 3. Javascript
 
 My GitHub can be accessed [here](https://github.com/justin-chiang).
+
+You can view the README of this lab [here](README.md).
 
 ## Hobbies
 
